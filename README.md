@@ -13,3 +13,8 @@ wget https://awx-public-ci-files.s3.amazonaws.com/community-docs/swagger.json
 python3 -m sphinx -T -W --keep-going -b singlehtml -d _build/doctrees -D language=en . build1
 
 ```
+
+example build result:
+
+https://github.com/vmazurukrtelecom/awx2641-doc/tree/main/build1
+
