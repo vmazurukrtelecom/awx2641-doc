@@ -37,3 +37,5 @@ https://github.com/vmazurukrtelecom/awx2641-doc/tree/main/build1
 TODO:
 
 add ".readthedocs.yaml" and builds at https://app.readthedocs.org/projects -- inc in PDF format
+
+REF: https://github.com/readthedocs-examples/example-sphinx-basic/
