@@ -28,9 +28,8 @@ python3 -m sphinx -T -W --keep-going -b singlehtml -d _build/doctrees -D languag
 
 ( commands like from  https://app.readthedocs.org/projects/awx-docs/builds/27388302/ )
 
-```
 
-example build result:
+example build result in folder build1:
 
 https://github.com/vmazurukrtelecom/awx2641-doc/tree/main/build1
 
